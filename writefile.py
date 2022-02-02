@@ -1,3 +1,9 @@
+"""
+Dan Smestad ITEC 2905-80 Capstone 2/1/2021
+Python code example for writing to file 
+
+"""
+
 numbers = ['one', 'two', 'three']
 
 # with open('numbers.txt', 'w') as number_file:
